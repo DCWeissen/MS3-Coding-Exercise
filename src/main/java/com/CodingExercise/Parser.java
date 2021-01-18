@@ -2,7 +2,7 @@
     and write the poorly formed lines into the error file
 */
 
-package CodingExercise;
+package com.CodingExercise;
 
 import java.io.*;
 import com.opencsv.CSVReader;

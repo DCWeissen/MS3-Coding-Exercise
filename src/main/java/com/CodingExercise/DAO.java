@@ -1,7 +1,7 @@
 //This class is used to create the database and insert records
 
 
-package CodingExercise;
+package com.CodingExercise;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

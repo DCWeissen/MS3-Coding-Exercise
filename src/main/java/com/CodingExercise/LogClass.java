@@ -2,7 +2,7 @@
 and modified it to fit what I needed.
 */
 
-package CodingExercise;
+package com.CodingExercise;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.Level;

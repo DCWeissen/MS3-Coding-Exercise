@@ -2,7 +2,7 @@
     This was built using the Netbeans inteface.
 */
 
-package CodingExercise;
+package com.CodingExercise;
 
 import javax.swing.JFileChooser;
 import java.io.File;
