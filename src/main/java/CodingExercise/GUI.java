@@ -1,3 +1,7 @@
+/* GUI class to generate a GUI for the CSV File Parsing Program
+    This was built using the Netbeans inteface.
+*/
+
 package CodingExercise;
 
 import javax.swing.JFileChooser;

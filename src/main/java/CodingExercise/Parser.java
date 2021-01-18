@@ -1,3 +1,7 @@
+/*This class is used to open the CSV file, parse it, log the transaxtions
+    and write the poorly formed lines into the error file
+*/
+
 package CodingExercise;
 
 import java.io.*;

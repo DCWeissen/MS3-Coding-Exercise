@@ -1,3 +1,6 @@
+//This class is used to create the database and insert records
+
+
 package CodingExercise;
 
 import java.sql.Connection;

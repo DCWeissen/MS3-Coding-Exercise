@@ -1,3 +1,7 @@
+/*This class is used to generate the log files.  I copied it from Stackoverflow
+and modified it to fit what I needed.
+*/
+
 package CodingExercise;
 
 import org.apache.log4j.Logger;
