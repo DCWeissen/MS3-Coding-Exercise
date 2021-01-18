@@ -10,8 +10,7 @@ import com.opencsv.CSVReaderBuilder;
 import com.opencsv.CSVWriter;
 import java.util.List;
 import java.util.ArrayList;
-import org.apache.log4j.PropertyConfigurator;
-import org.apache.log4j.Logger;
+
 
 public class Parser {
     private String fileName;
@@ -77,4 +76,5 @@ public class Parser {
             e.printStackTrace();
         }
     }
+    
 }
