@@ -57,8 +57,6 @@ public class DAO {
         
         sql = sql + "?)";
         
-        System.out.println(sql);
-        
         try {   
             PreparedStatement pstmt = conn.prepareStatement(sql);  
             for (int i = 0; i < data.length; i++)
